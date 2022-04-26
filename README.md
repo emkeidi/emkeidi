@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emkeidi
-- 👀 I’m interested in copying and pasting
-- 🌱 I’m currently learning cmd+shift+v
-- 💞️ I’m looking to collaborate on kindness
+- 👀 It's high time to learn about software engineering
+- 🌱 This page is me learning in public
+- 💞️ I’m looking to collaborate on kindness (once I've got some chops)
 
 <!---
 emkeidi/emkeidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
