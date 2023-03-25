@@ -1,18 +1,12 @@
-# 👋 Hello, this is Matt Davis. 
+# 👋 Hello, my name is Matthew Davis. 
 
-I began seriously studying the world of coding at the beginning of 2022. 
+Learning JS/TS, Java, Node... that kinda stuff. 
 
-The concept was intriguing to me for a while before that, and I am really glad to have taken the plunge. 
+Working as a junior dev interacting with Jenkins, Ansible, and all things Atlassian. 
 
-## What Do I Know? 
+trained on *A G I L E* 🏃
 
-- A bit about Java and Spring Boot as a backend RESTful server
-- A bit about React as a front-end
-- I will never know enough
-- CSS is a love/hate (I think I love, but am still afraid)
-- No one *knows* RegEx, and those who do are demigods
-
-
+I promise at work I don't just commit to main/master, but in my personal repos...? Yeah, I could use some new strategies
 
 
 
