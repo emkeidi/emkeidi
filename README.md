@@ -1,12 +1,12 @@
-# 👋 Hello, my name is Matthew Davis. 
-
-Learning JS/TS, Java, Node... that kinda stuff. 
-
-Working as a junior dev interacting with Jenkins, Ansible, and all things Atlassian. 
-
-trained on *A G I L E* 🏃
-
-I promise at work I don't just commit to main/master, but in my personal repos...? Yeah, I could use some new strategies
+|Key|Value|
+|---|---|
+|firstName|"Matthew"|
+|lastName|"Davis"|
+|moniker|[ "Matt", "emkeidi" ]|
+|generation|[ "Gen Y", "millennial" ]|
+|hotOrCold|"Cold"|
+|saltyOrSweet|"Salty"|
+|dogOrCat|"Dog"|
 
 
 
